@@ -9,7 +9,7 @@
   <h3 align="center">Foreword</h3>
 
   <p align="center">
-    Demonstrating design best practices with 'seperation-of-concern' (SoC) techniques to dynamically render salary data via user input.
+    Demonstrating design best practices with 'separation-of-concern' (SoC) techniques to dynamically render salary data via user input with JavaScript.
     <br>
     <a href="https://github.com/jgome284/salary-js/issues">Report Bug</a>
     ·
@@ -29,7 +29,7 @@
 <!-- ABOUT -->
 ## About
 
-This repository features a simple web application that dynamically redors salary data from a small dataset. It demonstrates Seperation of Concerns (SoC) via distict features in the [modules](./modules/) folder. SoC is a design principle that manages complexity by partitioning a computer program into distinct features that overlap in functionality as little as possible.
+This repository features a simple web application that dynamically renders salary data from a small dataset. It demonstrates Separation of Concerns (SoC) via distict features in the [modules](./modules/) folder. SoC is a design principle that manages complexity by partitioning a computer program into distinct features that overlap in functionality as little as possible.
 
 <!--PREREQUISITES-->
 ## Prerequisites
